@@ -20,21 +20,17 @@ refer to [How to config tomcat project in idea](https://blog.csdn.net/m0_6740160
 
 ### Edit configuration
 
-![1](E:\Users\LEGION\Desktop\1.png)
+![1](https://user-images.githubusercontent.com/104081545/194881826-f461d67d-8f96-4a48-a9c2-8982583445d7.png)
 
-![2](E:\Users\LEGION\Desktop\2.png)
+![2](https://user-images.githubusercontent.com/104081545/194881847-5a7bc1bb-5559-45a6-9f73-a3d390bd91c9.png)
 
 ### Project structure
 
-![屏幕截图 2022-10-10 190440](E:\Users\LEGION\Desktop\屏幕截图 2022-10-10 190440.png)
-
-![屏幕截图 2022-10-10 190453](E:\Users\LEGION\Desktop\屏幕截图 2022-10-10 190453.png)
-
-![屏幕截图 2022-10-10 190503](E:\Users\LEGION\Desktop\屏幕截图 2022-10-10 190503.png)
-
-![屏幕截图 2022-10-10 190516](E:\Users\LEGION\Desktop\屏幕截图 2022-10-10 190516.png)
-
-![屏幕截图 2022-10-10 190526](E:\Users\LEGION\Desktop\屏幕截图 2022-10-10 190526.png)
+![3](https://user-images.githubusercontent.com/104081545/194882053-85888454-6dc9-4602-a84b-2a2349da294f.png)
+![4](https://user-images.githubusercontent.com/104081545/194882097-c780eaab-6865-4403-bc1a-e496a601f1a3.png)
+![5](https://user-images.githubusercontent.com/104081545/194882126-23ec7d5c-e8b1-4d4d-950d-aa5bc5fce35f.png)
+![6](https://user-images.githubusercontent.com/104081545/194882164-523f98c7-84d4-434b-8c0e-57814f098bdf.png)
+![7](https://user-images.githubusercontent.com/104081545/194882175-6ed975ec-0573-43fb-a816-8d497f78cfe2.png)
 
 ## 3、Database(Mysql)
 
@@ -208,7 +204,8 @@ smart contract refer to ['SoulBoundToken'](https://github.com/auroraug/ERC721-al
 
 use remix(0.8.4 version) to compile and deploy like this follow
 
-![66](E:\Users\LEGION\Desktop\66.png)
+![66](https://user-images.githubusercontent.com/104081545/194881687-8ca57ab2-0ad3-43da-adc5-2495054f4e3b.png)
+
 
 then click the deployed blockchain browser link to publish contract (select 0.8.4 solidity compiler)
 
@@ -216,4 +213,4 @@ then click the deployed blockchain browser link to publish contract (select 0.8.
 
 Turn to my jsp page,edit the contract ABI code with your own contract ABI code and other that just published on blockchain browser 
 
-![666](E:\Users\LEGION\Desktop\666.png)
+![666](https://user-images.githubusercontent.com/104081545/194881790-0168db3f-0b57-4973-89e7-2d9dbe40042b.png)
