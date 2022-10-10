@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="http_cdn.ethers.io_lib_ethers-5.2.umd.min" type="kotlin.js">
+    <CLASSES>
+      <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ethers.io_lib_ethers-5.2.umd.min.js" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

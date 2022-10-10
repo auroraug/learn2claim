@@ -1,0 +1,141 @@
+/*body{
+    background-image: url("/image/Background.jpg");
+    background-repeat: round;
+    margin: 0px;
+    width: auto;
+    height: auto;
+}*/
+body{
+    background-image: url("/image/background.jpg");
+    background-size: 100% 100%;
+}
+.title{
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    height: 40px;
+    padding-top: 10px;
+    padding-left: 15px;
+    background-color: #A2D8E4;
+    opacity: 0.8;
+}
+
+table{
+    border-spacing: 5px;
+}
+input{
+    height: 25px;
+}
+.main{
+    width: 600px;
+    height: 500px;
+    display: flex;
+    right: 100px;
+}
+.info{
+    font-size: 18px;
+    font-weight: bold;
+}
+strong{
+    font-style:italic;
+}
+img{
+    position: static;
+    left: 20px;
+}
+span{
+    position: relative;
+    right: 30px;
+}
+.radio{
+    width: 15px;
+    height: 15px;
+    margin: 3px 3px 3px 5px;
+}
+.button{
+    color: white;
+    background-color: forestgreen;
+    border-width: 0px;
+    border-radius: 3px;
+    margin-right: 30px;
+    width: 50px;
+    opacity: 0.8;
+}
+.button:hover{
+    cursor: pointer;
+    opacity: 1;
+}
+.footer{
+    position: absolute;
+    bottom: 0px;
+    font-weight: bold;
+    font-size: 0.83em;
+    width: 100%;
+    height: 21px;
+    text-align: center;
+    padding-top: 10px;
+    background-color: #A2D8E4;
+    opacity: 0.8;
+}
+.fillWidth {
+    left: 750px;
+    top: 50px;
+    width: 700px;
+    height: 700px;
+    object-fit:fill;
+    position:absolute;
+}
+.Cn{
+    margin-top: 15;
+    position: absolute;
+    left: 15px;
+}
+.net{
+    margin-top: 2;
+    position: center;
+}
+
+.login_box{
+    width: 300px;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 88%;
+    transform: translate(-50%, -50%);
+    background: #000000;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.input_box{
+    border: 0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid #6c5ce7;
+    border-radius: 25px;
+    padding: 14px;
+    outline: none;
+    color: white;
+}
+
+.btn{
+    border: 0;
+    width: auto;
+    height: auto;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid   #6c5ce7;
+    border-radius: 25px;
+    padding: 14px;
+    outline: none;
+    color: white;
+}
+
+.btn:hover{
+    background: #81ecec;
+}
